@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python and R
+- 👀 I’m interested in Machine Learning and Software development
+- 🌱 I’m currently learning Python and JavaScript
 
 <!---
 robtzou/robtzou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
