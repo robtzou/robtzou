@@ -1,7 +1,8 @@
 # Qualifications
   i'll try my best
 # Production level projects
-  calculator (repl gui)
+  student_dashboard
+  web_developer
   
 
 
