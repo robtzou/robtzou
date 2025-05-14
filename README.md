@@ -1,9 +1,9 @@
 # Qualifications
   i'll try my best
 # Production level projects
-  student dashboard
-  web development
-	conversational studying app
+ student dashboard,
+ web development,
+ conversational studying app,
   
 
 
