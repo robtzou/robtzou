@@ -1,5 +1,5 @@
 # Qualifications
-  Expert Hacker (I know how to use Shell commands and I have assembled a PC before)
+  Expert Hacker like think of that Chris Hemsworth in Blackhat but my jawline is a bit sharper ngl (I know how to use Shell commands and I have assembled a PC before)
 # Production level projects
  student dashboard,
  web3.0 development,
