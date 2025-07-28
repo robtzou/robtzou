@@ -2,8 +2,7 @@
   Expert Hacker like think of that Chris Hemsworth in Blackhat but my jawline is a bit sharper ngl (I know how to use Shell commands and I have assembled a PC before)
 # Production level projects {^_____^}
  student dashboard,
- web3.0 development,
- conversational studying app,
+ conversational studying app
   
 
 
