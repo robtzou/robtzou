@@ -1,8 +1,8 @@
 # Qualifications (✿◡‿◡)
   Expert Hacker like think of that Chris Hemsworth in Blackhat but my jawline is a bit sharper ngl (I know how to use Shell commands and I have assembled a PC before)
-# Production level projects {^_____^}
- student dashboard,
- donutInventory
+# Production level projects  you should check out! {^_____^}
+ cali (pinned)
+ donutInventory (**https://blog-g1zys.sevalla.page/**)
   
 
 
