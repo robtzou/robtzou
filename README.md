@@ -1,8 +1,11 @@
-# Qualifications (✿◡‿◡)
-  Expert Hacker like think of that Chris Hemsworth in Blackhat but my jawline is a bit sharper ngl (I know how to use Shell commands and I have assembled a PC before)
-# Production level projects  you should check out! {^_____^}
- cali (pinned),
- donutInventory (**https://blog-g1zys.sevalla.page/**)
+Hello,
+I'm Robert.
+
+I am currently working on: 
+
+cali (Pinned Project)
+
+I am an Information Science Student interested in Big Data and Software Development.
   
 
 
