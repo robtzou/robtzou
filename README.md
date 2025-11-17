@@ -1,11 +1,10 @@
 Hello,
-I'm Robert.
+I'm Robert. Nice to meet you!
 
-I am currently working on: 
+My current goal is to build the skills necessary to create full scale web and mobile applications.
 
-cali (Pinned Project)
-
-I am an Information Science Student interested in Big Data and Software Development.
+I find that AI as a tool to be one that will take decades to be properly integrated,
+that being said, most if not all of my projects will be utilizing AI, ML, or OD in some way.
   
 
 
