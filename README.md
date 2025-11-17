@@ -1,5 +1,5 @@
-# Hello,
-## I'm Robert. Nice to meet you!
+# Hello, I'm Robert
+## Nice to meet you!👋
 
 ### My current goal is to build the skills necessary to create full scale web and mobile applications.
 
