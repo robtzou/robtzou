@@ -1,14 +1,11 @@
-# Hello, I'm Robert
-## Nice to meet you!👋
-
-My current goal is to build the skills necessary to create **full scale web** and **mobile applications**.
-
-I find that AI as a tool to be one that will take decades to be properly integrated,
-that being said, most if not all of my projects will be utilizing AI, ML, or OD in some way.
-  
-Languages: **Python 🐍 & Typescript ⌨️**
-
-<!---
-robtzou/robtzou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+    <h1>Hello, I'm Robert!</h1>
+    <h3>My current goal is to build the skills necessary to create full scale applications for health, finance, and education.</h3>
+    <p>
+        I find that AI as a tool to be one that will take decades to be properly integrated.<br>
+        that being said, most if not all of my projects will be utilizing AI, ML, or OD in some way.
+    </p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,nodejs,python,vim,aws,gcp,azure,typescript,tailwindcss,react&perline=6" />
+    </a>
+</div>
